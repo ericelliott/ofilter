@@ -1,0 +1,24 @@
+{
+  "name": "ofilter",
+  "version": "0.1.0",
+  "description": "Array.prototype.filter for objects.",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "*"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dilvie/ofilter.git"
+  },
+  "keywords": [
+    "objects",
+    "filter",
+    "array.prototype.filter",
+    "functional"
+  ],
+  "author": "Eric Elliott",
+  "license": "MIT"
+}
