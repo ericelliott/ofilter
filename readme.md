@@ -1,6 +1,6 @@
 # Deprecated - use [MOUT](http://moutjs.com/)
 
-I built this, planning to recreate the whole suite of Array extras and Underscore functional iterators for objects, sets, and maps, and then somebody pointed out that the bulk of this work has already been done. It's called MOUT, and it is completely modular. You can require the whole library, or only the function you need. Even better, the modularity works with AMD, Node, or Browserify, so you can use it just about everywhere you need it. This is where it's at, guys. Time to break our Underscore addiction.
+I built this planning to recreate the whole suite of Array extras and Underscore functional iterators for objects, sets, and maps, and then somebody pointed out that the bulk of this work has already been done. It's called MOUT, and it is completely modular. You can require the whole library, or only the function you need. Even better, the modularity works with AMD, Node, or Browserify, so you can use it just about everywhere you need it. This is where it's at, guys. Time to break our Underscore addiction.
 
 
 ## ofilter
